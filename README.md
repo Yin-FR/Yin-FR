@@ -11,7 +11,4 @@ I'm Yin TAN, a passionate Cloud DevOps Engineer currently based in the picturesq
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yin-fr&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=yin-fr&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yin-fr&theme=city_light&hide_border=false)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
