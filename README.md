@@ -9,8 +9,6 @@ I'm Yin TAN, a passionate Cloud DevOps Engineer currently based in the picturesq
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-384-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
