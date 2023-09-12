@@ -22,7 +22,4 @@ Docker                   1 hr 7 mins         █░░░░░░░░░░�
 
  Last Updated on 12/09/2023 01:11:40 UTC
 <!--END_SECTION:waka-->
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yin-fr&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
