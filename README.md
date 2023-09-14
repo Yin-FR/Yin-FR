@@ -23,6 +23,6 @@ Docker                   1 hr 7 mins         █░░░░░░░░░░�
  <!-- END:language -->
 
  <!-- START:updatetime -->
-<img src="https://github.com/Yin-FR/Yin-FR/blob/main/assets/charts/languague-percentage.png?raw=true" alt=img stype="height: 50px; " />
+<img src="https://github.com/Yin-FR/Yin-FR/blob/main/assets/charts/languague-percentage.png?raw=true" alt=img style="height: 200px" />
  <!-- END:updatetime -->
  
