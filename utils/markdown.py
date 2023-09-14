@@ -5,9 +5,9 @@ def modify_by_mark(mark_name, insert_path, insert_height=0, insert_width=0, mark
     mark_end = "<!-- END:{} -->".format(mark_name)
     size = ""
     if insert_height:
-        size += "height: {}px; "
+        size += "height: {}px; ".format(insert_height)
     if insert_width:
-        size += "width: {}px; "
+        size += "width: {}px; ".format(insert_width)
 
     # split readme into lines
     with open(markdown_file, "r") as f:
@@ -25,8 +25,8 @@ def modify_by_mark(mark_name, insert_path, insert_height=0, insert_width=0, mark
     
     # add image tag to markdown file
     del lines[mark_idx_start + 1: mark_idx_end]
-    img_html = "<img src=\"{}\" alt=img stype=\"{}\" /".format(insert_path, size)
-    lines.insert(mark_idx_end, img_html)
+    img_html = "<img src=\"{}\" alt=img stype=\"{}\" />\n".format(insert_path, size)
+    lines.insert(mark_idx_end - 1, img_html)
     with open(markdown_file, "w+") as f:
         f.write("".join(lines))
 

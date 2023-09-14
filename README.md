@@ -23,6 +23,6 @@ Docker                   1 hr 7 mins         █░░░░░░░░░░�
  <!-- END:language -->
 
  <!-- START:updatetime -->
- Last Updated on 12/09/2023 01:11:40 UTC
+<img src="https://github.com/Yin-FR/Yin-FR/blob/main/assets/charts/languague-percentage.png?raw=true" alt=img stype="height: 50px; " />
  <!-- END:updatetime -->
  
