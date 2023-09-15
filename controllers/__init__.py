@@ -1,2 +1,3 @@
 from controllers.base import Base_Controller
 from controllers.github import Github_Controller
+from controllers.wakatime import Wakatime_Controller

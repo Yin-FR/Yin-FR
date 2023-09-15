@@ -11,6 +11,8 @@ def pie_chart(data_dict, chart_name):
     pie = Pie().add("",
                     [list((key, value)) for (key, value) in data_dict.items()],
                     center=["35%", "50%"]
+                ).set_global_opts(
+                    legend_opts=opts.LegendOpts(is_show=False)
                 ).set_series_opts(
                     label_opts=opts.LabelOpts(formatter="{b}: {c}%")
                 )

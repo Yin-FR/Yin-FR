@@ -7,22 +7,25 @@ I'm Yin TAN, a passionate Cloud DevOps Engineer currently based in the picturesq
 
 ### 🧑‍💻 Workings
 <!-- START:workingtime -->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2015%20mins-blue)
+<img src="https://img.shields.io/badge/Code%20Time-33%20hrs%2052%20mins-blue" alt=img style="" />
 <!-- END:workingtime -->
 
-📊 **This Week I Spent My Time On** 
-<!-- START:language -->
-```text
-💬 Programming Languages: 
-YAML                     11 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.52 % 
-JavaScript               3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Python                   3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JSON                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Docker                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-```
+ <!-- START:language -->
+<img src="https://github.com/Yin-FR/Yin-FR/blob/main/assets/charts/languague-percentage.png?raw=true" alt=img style="height: 200px; " />
  <!-- END:language -->
 
- <!-- START:updatetime -->
-<img src="https://github.com/Yin-FR/Yin-FR/blob/main/assets/charts/languague-percentage.png?raw=true" alt=img style="height: 200px" />
- <!-- END:updatetime -->
- 
+### 📊 This Week I Spent My Time On
+
+<!-- START:languageweek -->
+```text
+YAML                     12 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   38.67 %
+JavaScript               8 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   26.57 %
+Python                   5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.94 %
+JSON                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.91 %
+Docker                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.5 %
+Ezhil                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   2.56 %
+Nginx configuration file 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   1.63 %
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   1.03 %
+```
+Update on: 2023-09-15T21:58:27Z
+<!-- END:languageweek -->
