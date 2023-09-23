@@ -7,7 +7,7 @@ I'm Yin TAN, a passionate Cloud DevOps Engineer currently based in the picturesq
 
 ### 🧑‍💻 Workings
 <!-- START:workingtime -->
-<img src="https://img.shields.io/badge/Code%20Time-44%20hrs%2017%20mins-blue" alt=img style="" />
+<img src="https://img.shields.io/badge/Code%20Time-44%20hrs%2021%20mins-blue" alt=img style="" />
 <!-- END:workingtime -->
 
  <!-- START:language -->
@@ -18,12 +18,10 @@ I'm Yin TAN, a passionate Cloud DevOps Engineer currently based in the picturesq
 
 <!-- START:languageweek -->
 ```text
-Python                   8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   42.49 %
-JavaScript               7 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.94 %
-YAML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.75 %
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94 %
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   1.97 %
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   1.3 %
+JavaScript               3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   47.25 %
+Python                   2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.46 %
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   1.16 %
 ```
-Update on: 2023-09-19T20:55:47Z
+Update on: 2023-09-23T15:08:11Z
 <!-- END:languageweek -->
