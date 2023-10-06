@@ -4,7 +4,9 @@ from pyecharts import options as opts
 from pyecharts.charts import Pie
 from pyecharts.render import make_snapshot
 from snapshot_selenium import snapshot as driver
+from pyecharts.globals import CurrentConfig
 
+CurrentConfig.ONLINE_HOST = "./js/v5/"
 
 def pie_chart(data_dict, chart_name):
     print(data_dict)
